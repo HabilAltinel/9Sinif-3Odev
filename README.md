@@ -35,8 +35,10 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1N5Nx7WEUcJpDRfzcGBhFAaQtXFBzLUW1d7sZ689H5r8/edit?usp=sharing) link verin (Google Sheet herkese açık erişimli olsun.) 
 
-a) Denklemim **-1,26*t^2 + 1.84*t + -1.42E-03**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? **Cisim yavaşladığı için a katsayısının negatif bir değer olduğunu düşünüyorum.** 
+a) Denklemim **-1,26*t^2 + 1.84*t + -1.42E-03**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? **Cisim yavaşladığı için a katsayısının negatif bir değer olduğunu düşünüyorum.**
+
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? **Hayır** 
+
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer her şey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) **Bence a ve b değişecekti**
 
 # Bölüm 2 (İvmeli Hareketin Ortalama Hız-Zaman Grafiği)
